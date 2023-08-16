@@ -1,0 +1,23 @@
+HTML
+- HTML é uma linguagem de marcação utilizada na construção de páginas na Web.
+- HyperText Markup Language
+- Linguagem de Marcação de HiperTexto
+- Define o significado e a estrutura do conteúdo da web
+
+AJAX
+- O termo AJAX significa Asynchronous JavaScript and XML.
+- Ajax é o uso metodológico de tecnologias como Javascript e XML, providas por navegadores, para tornar páginas Web mais interativas com o usuário, utilizando-se de solicitações assíncronas de informações.
+
+CSS
+- Cascading Style Sheets
+- É um mecanismo para adicionar estilos a uma página web
+
+Javascript
+- JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+
+BootStrap
+- Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web, usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.
+
+PHP
+- PHP é um acrônimo recursivo para PHP: Hypertext Preprocessor (Pré-Processador de Hipertexto), que originalmente se chamava Personal Home Page (Página Inicial Pessoal). Ele também é um subconjunto de linguagens de scripts como JavaScript e Python.
+- PHP é uma linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações presentes e atuantes no lado do servidor, capazes de gerar conteúdo dinâmico na World Wide Web.
