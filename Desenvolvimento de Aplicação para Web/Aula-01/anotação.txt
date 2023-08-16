@@ -11,6 +11,7 @@ AJAX
 CSS
 - Cascading Style Sheets
 - É um mecanismo para adicionar estilos a uma página web
+- Linguagem de marcação
 
 Javascript
 - JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
