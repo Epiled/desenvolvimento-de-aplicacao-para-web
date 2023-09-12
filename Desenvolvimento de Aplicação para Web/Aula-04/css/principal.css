@@ -1,0 +1,33 @@
+.principal {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    max-width: 144rem;
+    margin: 0 auto;
+}
+
+.principal__container {
+    display: flex;
+    gap: 2rem;
+}
+
+.principal__container--alt {
+    flex-direction: row-reverse;    
+}
+
+.principal__imagem {
+    width: 50%;
+    border-radius: 2rem;
+}
+
+.principal__titulo {
+    color: #ea3d4e;
+    font-size: 4rem;
+}
+
+.principal__txt {
+    font-size: 1.8rem;
+    color: #630c15;
+    margin-bottom: .5rem;
+}

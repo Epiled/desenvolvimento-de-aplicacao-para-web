@@ -1,0 +1,43 @@
+.rodape {
+    background-color: #ea3d4e;
+}
+
+.rodape__wrap {
+    max-width: 144rem;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.rodape__logo {
+    width: 10rem;
+    object-fit: contain;
+}
+
+.rodape__titulo {
+    font-size: 2.8rem;
+    margin-bottom: 1rem;
+    color: #ffffff;
+}
+
+.rodape__txt {
+    font-size: 1.6rem;
+    color: #ffffff;
+}
+
+.rodape__container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.rodape__link {
+    font-size: 2rem;
+    color: #ffffff;
+    text-decoration: none;
+}
+.rodape__mapa {
+    width: 40rem;
+    height: 25rem;
+}

@@ -1,0 +1,36 @@
+.banner {
+    background-image: 
+    linear-gradient(0deg, #ea3d4e, rgba(0,0,0,.5))
+    , url(../img/games-brasil.jpg);
+    background-size: cover;
+    height: 50vh;
+    position: relative;
+}
+
+.banner__conteudo {
+    position: absolute;
+    top: 50%;
+    left: 13.5%;
+    color: #fff;
+    max-width: 144rem;
+    margin: 0 auto;
+    transform: translateY(-50%);
+}
+
+.banner__titulo {
+    font-size: 5rem;
+}
+
+.banner__txt {
+    font-size: 2rem;
+}
+
+.banner__btn {
+    border: .2rem solid #ffffff;
+    padding: 1rem 2rem;
+    border-radius: .5rem;
+    margin-top: 2rem;
+    color: #fff;
+    background: transparent;
+    font-weight: bold;
+} 

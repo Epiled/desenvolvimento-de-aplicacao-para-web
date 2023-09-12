@@ -1,0 +1,50 @@
+.menu {
+    background: #ea3d4e;
+}
+
+.menu__navegacao {
+    display: flex;
+    align-items: center;
+    max-width: 144rem;
+    padding: 0 2rem;
+    margin: 0 auto;
+}
+
+.menu__logo {
+    max-width: 10rem;
+    margin-right: 2rem;
+}
+
+.menu__link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 0 2rem;
+}
+
+.menu__pesquisa {
+    margin-left: auto;
+    display: flex;
+}
+
+.menu__busca {
+    font-size: 2rem;
+    padding: .5rem;
+    border-radius: .5rem;
+    border: .2rem solid #fff;
+    background: transparent;
+    color: #fff;
+}
+
+.menu__busca::placeholder {
+    color: #fff;
+}
+
+.menu__btn {
+    background-color: transparent;
+    color: #fff;
+    font-weight: bold;
+    padding: 1rem 2rem;
+    border: .2rem solid #fff;
+    border-radius: .5rem;
+}
